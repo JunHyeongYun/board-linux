@@ -9,5 +9,5 @@ public class BoardLinuxApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BoardLinuxApplication.class, args);
 	}
-	//
+	//11
 }
